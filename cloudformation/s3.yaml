@@ -1,0 +1,8 @@
+Resources:
+  S3BucketA:
+    Type: AWS::S3::Bucket
+
+  S3BucketB:
+    Type: AWS::S3::Bucket
+    Properties:
+      AccessControl: PublicRead

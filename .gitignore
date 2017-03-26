@@ -1,0 +1,4 @@
+*.pem
+*.pub
+*.tfstate*
+var*.tf
