@@ -14,13 +14,13 @@ Download it and play with it :)<br>
     │   ├── index.html<br>
     │   ├── provider.tf<br>
     │   ├── s3demo2.tf<br>
-    │   └── variables.tf<br> #This must be created, you can remame template-var.tf to varialbles.tf
+    │   └── variables.tf<br> #This file must be created, you can remame template-var.tf to varialbles.tf
     ├── demo3<br> #Create an DynamoDB table
     │   ├── dynamo_db.tf<br>
     │   ├── provider.tf<br>
-    │   └── variables.tf<br> #This must be created, you can remame template-var.tf to varialbles.tf
+    │   └── variables.tf<br> #This file must be created, you can remame template-var.tf to varialbles.tf
     ├── provider.tf<br>
     ├── s3.tf<br>
-    └── variables.tf<br> #This must be created, you can remame template-var.tf to varialbles.tf
+    └── variables.tf<br> #This file must be created, you can remame template-var.tf to varialbles.tf
 <br>
 <br>
