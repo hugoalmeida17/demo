@@ -1,5 +1,4 @@
 *.pem
 *.pub
 *.tfstate*
-var*.tf
 .terraform
